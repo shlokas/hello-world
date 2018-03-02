@@ -1,3 +1,3 @@
 # hello-world
-First guide project
+First guide project.
 This is the commit change
